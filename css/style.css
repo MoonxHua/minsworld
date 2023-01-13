@@ -1,0 +1,43 @@
+body
+    {
+        background-color: lavender;
+    }
+
+a:link
+    {
+        color: purple;
+        background-color: plum;
+        text-decoration: none;
+        padding: 15px;
+        display: flexbox;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+a:visited
+    {
+        color: violet;
+        background-color: aliceblue;
+        text-decoration: none;
+        display: none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+a:hover
+    {
+        color: indigo;
+        background-color: thistle;
+        text-decoration: overline;
+    }
+
+a:active
+    {
+        color: rgb(135, 86, 135);
+        background-color: whitesmoke;
+        text-decoration: none;
+    }
+
+h1
+    {
+        font-family: monospace;
+        color: rgb(101, 60, 130);
+    }
